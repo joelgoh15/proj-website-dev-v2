@@ -68,10 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
-    <Content Include="index_temp2.html" />
-    <Content Include="index_temp1.html" />
     <Content Include="scripts\script.js" />
-    <Content Include="scripts\script2.js" />
     <Content Include="styles\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
